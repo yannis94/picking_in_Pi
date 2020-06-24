@@ -1,0 +1,35 @@
+body {
+    margin: 0 25% 0 25%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F0302;
+}
+
+input {
+    background-color: #C7D2D3;
+    border: solid 1px #546D6E;
+    font-size: 24px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2 {
+    color: lightgray;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
